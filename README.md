@@ -50,5 +50,5 @@ You can use your own image as well. Just place an image on Tests/InputImages/ fo
 
 ## Results
 
-See the video of result of tests [here](https://www.youtube.com/JH00gTNH76M) 
+See the video of result of tests [here](https://www.youtube.com/watch?v=JH00gTNH76M) 
 
